@@ -42,9 +42,9 @@
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.candidatarToolStripMenuItem,
+            this.logarToolStripMenuItem,
             this.eleitorarToolStripMenuItem,
             this.candidatarToolStripMenuItem1,
-            this.logarToolStripMenuItem,
             this.votarToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
@@ -78,12 +78,14 @@
             this.logarToolStripMenuItem.Name = "logarToolStripMenuItem";
             this.logarToolStripMenuItem.Size = new System.Drawing.Size(49, 20);
             this.logarToolStripMenuItem.Text = "Logar";
+            this.logarToolStripMenuItem.Click += new System.EventHandler(this.logarToolStripMenuItem_Click);
             // 
             // votarToolStripMenuItem
             // 
             this.votarToolStripMenuItem.Name = "votarToolStripMenuItem";
-            this.votarToolStripMenuItem.Size = new System.Drawing.Size(46, 20);
+            this.votarToolStripMenuItem.Size = new System.Drawing.Size(47, 20);
             this.votarToolStripMenuItem.Text = "Votar";
+            this.votarToolStripMenuItem.Click += new System.EventHandler(this.votarToolStripMenuItem_Click);
             // 
             // frmTelaPrincipal
             // 

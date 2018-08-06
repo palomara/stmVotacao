@@ -9,11 +9,16 @@ using System.Windows.Forms;
 
 namespace frmAlunos
 {
-    public partial class Votacao : Form
+    public partial class frmVotacao : Form
     {
-        public Votacao()
+        public frmVotacao()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

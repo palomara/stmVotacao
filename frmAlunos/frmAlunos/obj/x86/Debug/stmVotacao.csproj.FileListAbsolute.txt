@@ -9,3 +9,31 @@ F:\gitrepositorios\frmAlunos\frmAlunos\obj\x86\Debug\stmVotacao.csproj.GenerateR
 F:\gitrepositorios\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.exe
 F:\gitrepositorios\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.pdb
 F:\gitrepositorios\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.Votacao.resources
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.exe
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.pdb
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\bin\Debug\frmAlunos.exe
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\bin\Debug\frmAlunos.pdb
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmCadCandidato.resources
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmCadEleitor.resources
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmCadAluno.resources
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmLogin.resources
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmTelaPrincipal.resources
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.Properties.Resources.resources
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\obj\x86\Debug\stmVotacao.csproj.GenerateResource.Cache
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmVotacao.resources
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\bin\Debug\BD_alunos.accdb
+F:\Etec II - 3 SEM\DS II\stmVotacao\frmAlunos\frmAlunos\bin\Debug\frmAlunos.exe.config
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\bin\Debug\frmAlunos.exe.config
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.exe
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.pdb
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\bin\Debug\BD_alunos.accdb
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\bin\Debug\frmAlunos.exe
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\bin\Debug\frmAlunos.pdb
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmCadCandidato.resources
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmCadEleitor.resources
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmCadAluno.resources
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmLogin.resources
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmTelaPrincipal.resources
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.Properties.Resources.resources
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmVotacao.resources
+F:\gitrepositorios\ds_II\frmAlunos\frmAlunos\obj\x86\Debug\stmVotacao.csproj.GenerateResource.Cache

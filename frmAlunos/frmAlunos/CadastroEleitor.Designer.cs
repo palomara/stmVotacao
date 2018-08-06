@@ -38,7 +38,7 @@
             // lblRM
             // 
             this.lblRM.AutoSize = true;
-            this.lblRM.Location = new System.Drawing.Point(12, 69);
+            this.lblRM.Location = new System.Drawing.Point(12, 63);
             this.lblRM.Name = "lblRM";
             this.lblRM.Size = new System.Drawing.Size(77, 13);
             this.lblRM.TabIndex = 1;
@@ -56,7 +56,7 @@
             // 
             // txbEleitorRM
             // 
-            this.txbEleitorRM.Location = new System.Drawing.Point(95, 69);
+            this.txbEleitorRM.Location = new System.Drawing.Point(95, 60);
             this.txbEleitorRM.Name = "txbEleitorRM";
             this.txbEleitorRM.Size = new System.Drawing.Size(100, 20);
             this.txbEleitorRM.TabIndex = 4;
@@ -67,7 +67,7 @@
             this.btnCadastrar.FlatAppearance.BorderColor = System.Drawing.Color.Blue;
             this.btnCadastrar.FlatAppearance.BorderSize = 2;
             this.btnCadastrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCadastrar.Location = new System.Drawing.Point(72, 110);
+            this.btnCadastrar.Location = new System.Drawing.Point(79, 99);
             this.btnCadastrar.Name = "btnCadastrar";
             this.btnCadastrar.Size = new System.Drawing.Size(75, 23);
             this.btnCadastrar.TabIndex = 5;

@@ -36,5 +36,19 @@ namespace frmAlunos
             candidato.MdiParent = this;
             candidato.Show();
         }
+
+        private void logarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmLogin login = new frmLogin();
+            login.MdiParent = this;
+            login.Show();
+        }
+
+        private void votarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmVotacao votar = new frmVotacao();
+            votar.MdiParent = this;
+            votar.Show();
+        }
     }
 }
