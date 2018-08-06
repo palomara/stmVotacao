@@ -1,0 +1,11 @@
+F:\gitrepositorios\frmAlunos\frmAlunos\bin\Debug\frmAlunos.exe
+F:\gitrepositorios\frmAlunos\frmAlunos\bin\Debug\frmAlunos.pdb
+F:\gitrepositorios\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmCadCandidato.resources
+F:\gitrepositorios\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmCadEleitor.resources
+F:\gitrepositorios\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmCadAluno.resources
+F:\gitrepositorios\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.frmTelaPrincipal.resources
+F:\gitrepositorios\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.Properties.Resources.resources
+F:\gitrepositorios\frmAlunos\frmAlunos\obj\x86\Debug\stmVotacao.csproj.GenerateResource.Cache
+F:\gitrepositorios\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.exe
+F:\gitrepositorios\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.pdb
+F:\gitrepositorios\frmAlunos\frmAlunos\obj\x86\Debug\frmAlunos.Votacao.resources
